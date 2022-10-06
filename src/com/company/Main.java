@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Main {
 
     public static void main(String[] args) {
-//        calculateMaxValue();
+        calculateMaxValue();
     }
 
     private static void calculateMaxValue() {
